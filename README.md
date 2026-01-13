@@ -1,4 +1,4 @@
-🚀 FSM-Based Elevator Controller using Verilog
+**🚀 FSM-Based Elevator Controller using Verilog**
 📌 Project Overview
 
 This project implements a 4-floor elevator controller using Verilog HDL.
@@ -133,5 +133,7 @@ Parameterized number of floors
 👨‍💻 Author
 
 P Lakshmi Narasimhulu
+
 VLSI / RTL Design Enthusiast
+
 Focused on Verilog, FSM design, and digital systems
